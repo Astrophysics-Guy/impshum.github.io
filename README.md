@@ -1,4 +1,4 @@
-###It's like playing whack-a-mole with Youtube ads.
+### It's like playing whack-a-mole with Youtube ads.
 
 Quick and dirty install method.
 
